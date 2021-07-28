@@ -43,8 +43,12 @@
 }
 
 .upper-screen {
+    font-size: 3rem;
+    text-align: right;
     color: white;
-    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 20px;
     grid-column-start: 1;
     grid-column-end: 5;
     grid-row-start: 1;
@@ -52,8 +56,12 @@
 }
 
 .lower-screen {
+    text-align: right;
+    font-size: 3rem;
     color: white;
-    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 20px;
     grid-column-start: 1;
     grid-column-end: 5;
     grid-row-start: 2;
